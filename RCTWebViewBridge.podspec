@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RCTWebViewBridge"
-  s.version      = "3.3.0"
+  s.version      = "0.33.1"
   s.summary      = "A short description of RCTWebViewBridge."
   s.homepage     = "https://github.com/cjddny/react-native-webview-bridge.git"
   s.license      = "MIT"
